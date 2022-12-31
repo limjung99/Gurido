@@ -1,6 +1,6 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 간단한 추상전략 게임 쿼리도를 만들어보자
+개인서버를 이용하여 친구들과 해보쟝
 
 ## Available Scripts
 
